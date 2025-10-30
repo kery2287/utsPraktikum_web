@@ -23,4 +23,4 @@ UTS Praktikum Web Programming
 5. Akses: `http://localhost/management_system_marianus/public/`
 
 ## Author
-Marianus - UTS Praktikum Web Programming
+Kery - UTS Praktikum Web Programming
